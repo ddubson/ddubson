@@ -1,6 +1,22 @@
 ### Hi there 👋
 
 <!--
+
+My specialties
+
+- Kotlin
+- Java
+- C# / .NET Core
+- Typescript
+- ES6
+- Spring / Spring Boot
+
+My hobbyist learnings
+
+- Rust
+- Haskell
+- C++
+
 **ddubson/ddubson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
