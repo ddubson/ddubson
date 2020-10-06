@@ -9,7 +9,12 @@ My specialties
 - C# / .NET Core
 - Typescript
 - ES6
+- React
 - Spring / Spring Boot
+
+🌱 Professional Learning
+
+- Kubernetes
 
 My hobbyist learnings
 
