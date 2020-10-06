@@ -8,7 +8,13 @@ I help clients build excellent products and excellent engineering teams. Hooray!
 
 [<img align="left" alt="Kotlin" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />]()
 [<img align="left" alt="React" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
-[<img align="left" alt=".NET Core" width="48px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />]()
+[<img alt=".NET Core" width="48px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />]()
+
+---
+
+#### My hobbyist tinkerings
+
+[<img align="left" alt="Rust" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />]()
 
 <!--
 
