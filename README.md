@@ -18,49 +18,12 @@ You can find [my posts and garden here](https://www.dmitriydubson.com)
 [<img align="left" alt="C#" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />](https://github.com/topics/csharp)
 [<img alt=".NET Core" width="40px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />](https://github.com/topics/dotnet)
 
----
-
 #### My professional learnings
 
 [<img alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://github.com/topics/kubernetes)
-
----
 
 #### My hobbyist tinkerings
 
 [<img align="left" alt="Rust" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />](https://github.com/topics/rust)
 [<img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />](https://github.com/topics/cpp)
 [<img align="left" alt="Haskell" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />](https://github.com/topics/haskell)
-
-<!--
-
-
-- Java
-- C# / .NET Core
-- Typescript
-- ES6
-- Spring / Spring Boot
-
-🌱 Professional Learning
-
-- Kubernetes
-
-My hobbyist learnings
-
-- Rust
-- Haskell
-- C++
-
-**ddubson/ddubson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
