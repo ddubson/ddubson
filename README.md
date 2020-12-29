@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an engineer and consultant at VMware Pivotal Labs.
+I'm an engineer and consultant at VMware Tanzu Labs.
 
 I help clients build excellent products and excellent engineering teams. Hooray! 🎉
 
