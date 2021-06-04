@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm an engineer and consultant at VMware Tanzu Labs.
-
-I help clients build excellent products and excellent engineering teams. Hooray! 🎉
+I'm an engineer at VMware Tanzu R&D, working on seamless SSO for Kubernetes Workloads.
 
 You can find [my posts and garden here](https://www.dmitriydubson.com)
 
