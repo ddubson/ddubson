@@ -22,9 +22,7 @@ You can find [my posts and garden here](https://www.dmitriydubson.com)
 
 #### My certifications
 
-
-
-[<img alt="Kubernetes" width="40px" src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" />](https://github.com/topics/kubernetes)
+[<img alt="Kubernetes" width="40px" src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" />](https://www.credly.com/badges/17469638-a970-4434-a082-f93cd6a5ea1f)
 
 #### My hobbyist tinkerings
 
