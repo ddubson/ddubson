@@ -18,7 +18,13 @@ You can find [my posts and garden here](https://www.dmitriydubson.com)
 
 #### My professional learnings
 
-[<img alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://github.com/topics/kubernetes)
+[<img alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://www.credly.com/badges/17469638-a970-4434-a082-f93cd6a5ea1f)
+
+#### My certifications
+
+
+
+[<img alt="Kubernetes" width="40px" src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" />](https://github.com/topics/kubernetes)
 
 #### My hobbyist tinkerings
 
