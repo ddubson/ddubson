@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an engineer at VMware Tanzu R&D, working on seamless Single Sign-On for apps running in Kubernetes.
+I'm an engineer at VMware Tanzu R&D, working on seamless Single Sign-On for apps running on [VMware Tanzu Application Platform](https://tanzu.vmware.com/application-platform).
 
 You can find [my posts and garden here](https://www.dmitriydubson.com)
 
