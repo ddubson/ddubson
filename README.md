@@ -46,12 +46,34 @@ You can find [my posts and garden here](https://www.dmitriydubson.com)
 ### My certifications
 
 <div id="certifications">
-	<a href="https://www.credly.com/badges/17469638-a970-4434-a082-f93cd6a5ea1f">
-        <img alt="CKAD" width="80px" src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" />
-	</a>
-    <a href="https://www.credly.com/badges/8f830f24-aa86-4b9f-82cc-a686bb3a15fc">
-        <img alt="CKA" width="80px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" />
-    </a>
+	<div>
+		<div>
+			<a href="https://www.credly.com/badges/17469638-a970-4434-a082-f93cd6a5ea1f">
+			<img alt="CKAD" width="80px" src="https://images.credly.com/size/680x680/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png" />
+			</a>
+		</div>
+		<div>
+			<strong>Certified Kubernetes Application Developer</strong>
+		</div>
+	</div>
+	<div>
+    	<div>
+			<a href="https://www.credly.com/badges/8f830f24-aa86-4b9f-82cc-a686bb3a15fc">
+			<img alt="CKA" width="80px" src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" />
+			</a>
+		</div>
+		<div>
+			<strong>Certified Kubernetes Administrator</strong>
+		</div>
+	</div>
+	<div>
+		<div>
+			<a href="https://www.credly.com/badges/c2d4074b-0869-44c1-a33f-706db0753168">
+			<img alt="CKS" width="80px" src="https://images.credly.com/size/680x680/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" />
+			</a>
+		</div>
+		<div><strong>Certified Kubernetes Security Specialist</strong></div>
+	</div>
 </div>
 
 ---
