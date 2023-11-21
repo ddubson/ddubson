@@ -41,34 +41,31 @@ You can find [my posts and garden here](https://www.dmitriydubson.com)
 
 ### My certifications
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" border="0" style="border: 0">
     <tr style="padding: 0">
-        <td><a href="https://www.credly.com/badges/17469638-a970-4434-a082-f93cd6a5ea1f">
-            <img alt="CKAD" width=40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
-            </a>
-        </td>
+        <td><img alt="CKAD" width=40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" /></td>
         <td>
-            <strong>Certified Kubernetes Application Developer</strong>
+            <strong>
+                <a href="https://www.credly.com/badges/17469638-a970-4434-a082-f93cd6a5ea1f">
+                    Certified Kubernetes Application Developer
+                </a>
+            </strong>
         </td>
     </tr>
     <tr>
+        <td><img alt="CKA" width=40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" /></td>
         <td>
             <a href="https://www.credly.com/badges/8f830f24-aa86-4b9f-82cc-a686bb3a15fc">
-            <img alt="CKA" width=40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
-            </a>
-        </td>
-        <td>
             <strong>Certified Kubernetes Administrator</strong>
+            </a>
         </td>
     </tr>
     <tr>
+        <td><img alt="CKS" width=40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" /></td>
         <td>
             <a href="https://www.credly.com/badges/c2d4074b-0869-44c1-a33f-706db0753168">
-            <img alt="CKS" width=40px" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" />
-            </a>
-        </td>
-        <td>
             <strong>Certified Kubernetes Security Specialist</strong>
+            </a>
         </td>
     </tr>
 </table>
