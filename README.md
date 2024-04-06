@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer, formerly VMware R&D & Pivotal Labs.
+I'm an Engineering Manager at Luminate. Previously VMware Tanzu R&D & Pivotal Labs.
 
 You can find [my posts and garden here](https://www.dmitriydubson.com)
 
